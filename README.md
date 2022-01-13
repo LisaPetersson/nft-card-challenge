@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Lisa Petersson](https://www.your-site.se)
+- Website - [Lisa Petersson](https://www.lisapetersson.se)
 - Behance - [@LisaPetersson](https://www.behance.net/lisapetersson)
 - Frontend Mentor - [@LisaPetersson](https://www.frontendmentor.io/profile/LisaPetersson)
